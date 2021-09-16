@@ -100,7 +100,7 @@ body:after {
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 7em 0; } }
+      padding: 4em 0; } }
   .site-section.site-section-sm {
     padding: 4em 0; }
 
@@ -646,7 +646,7 @@ body:after {
   position: relative; }
   .service:hover {
     -webkit-box-shadow: 0 8px 50px -5px rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 0px 45px -8px rgba(91, 183, 218, 1);
+    box-shadow: 0px 0px 45px -5px rgba(91, 183, 218, 1);
     top: -2px; }
   .service .service-number {
     -webkit-box-flex: 0;
