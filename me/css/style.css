@@ -100,7 +100,7 @@ body:after {
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 4em 0; } }
+      padding: 2.5em 0; } }
   .site-section.site-section-sm {
     padding: 4em 0; }
 
@@ -561,6 +561,9 @@ body:after {
 .bg-light-main {
   background-color: #f8f9fa!important;
 }
+.bg-light-main2 {
+  background-color: #E8E8E8!important;
+}
 
 /* Blocks */
 .site-blocks-cover {
@@ -599,7 +602,7 @@ body:after {
     font-family: "Arbutus Slab", serif; }
   .site-blocks-cover .img-face {
     position: absolute;
-    right: -5%;
+    right: 5%;
     bottom: 0;
     z-index: 1;
     max-width: 950px; }
@@ -667,6 +670,12 @@ body:after {
   .service .service-about h3 {
     font-size: 1.2rem;
     margin-bottom: 10px; }
+
+.service2 {
+  padding: 30px;
+  background: #fff;
+  border: 3px solid #5DBCE0 !important;
+  position: relative; }
 
 .gal-item {
   margin-bottom: 30px; }
